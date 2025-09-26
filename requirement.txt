@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+pydantic
+asyncio
+httpx
+python-dotenv
+numpy
+matplotlib
+seaborn
+ipykernel

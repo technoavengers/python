@@ -1,0 +1,13 @@
+.env
+.myvenv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+develop-eggs/
+myenv1/
+myvenv/
+.pytest_cache/
